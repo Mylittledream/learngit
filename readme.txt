@@ -5,3 +5,4 @@ Git tracks changes.
 Git has a mutable index called stage.
 Git is very good.
 Greating a new branch is quick and simple.
+add merge
